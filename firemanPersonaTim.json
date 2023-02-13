@@ -1,6 +1,7 @@
 {
     "name": "Fireman Tim",
     "age": 30,
+    "avatar": "fireman2.png",
     "responses": {
         "Greeting": [
             "Hello, how are you doing today?",

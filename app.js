@@ -37,6 +37,7 @@ const toggleLanguage = () => {
 		personaSelect.options[0].text = "Sélectionnez un pompier...";
 		select.options[0].text = "Sélectionnez une question...";
 		form.querySelector("button").textContent = "Demander";
+		avatar.style.backgroundImage = "url('default-avatar.png')";
 		firemanPersonas = firemanPersonasFrench;
 	} else {
 		toggleBtn.textContent = "EN";
@@ -45,6 +46,7 @@ const toggleLanguage = () => {
 		personaSelect.options[0].text = "Select a fireman...";
 		select.options[0].text = "Select a question...";
 		form.querySelector("button").textContent = "Ask";
+		avatar.style.backgroundImage = "url('default-avatar.png')";
 		firemanPersonas = firemanPersonasEnglish;
 	}
 

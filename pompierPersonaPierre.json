@@ -1,6 +1,7 @@
 {
   "name": "Pompier Pierre",
   "age": 31,
+  "avatar": "fireman3.png",
   "responses": {
     "Salutation": [
       "Bonjour! Comment allez-vous aujourd'hui?",

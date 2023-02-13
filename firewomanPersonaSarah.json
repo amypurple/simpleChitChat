@@ -1,6 +1,7 @@
 {
 "name": "Firewoman Sarah",
 "age": 27,
+"avatar": "firewoman1.png",
 "responses": {
 "Greeting": [
 "Hey there! How's your day going so far?",

@@ -1,6 +1,7 @@
 {
     "name": "Fireman John",
     "age": 35,
+    "avatar": "fireman1.png",
     "responses": {
         "Greeting": [
             "Hi there!",

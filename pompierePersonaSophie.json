@@ -1,6 +1,7 @@
 {
   "name": "Pompière Sophie",
   "age": 29,
+  "avatar": "firewoman2.png",
   "responses": {
     "Salutation": [
       "Bonjour! Comment allez-vous aujourd'hui?",
@@ -12,8 +13,8 @@
     ],
     "Comment allez-vous?": [
       "Je vais bien, merci de me demander! Et vous?",
-      "Je vais plutôt bien, simplement occupé avec le travail. Et vous?",
-      "Je me sens super bien! Je suis juste occupé avec le travail et les trucs."
+      "Je vais plutôt bien, simplement occupée avec le travail. Et vous?",
+      "Je me sens super bien! Je suis juste occupée avec le travail et les trucs."
     ],
     "Qu'est-ce que vous aimez le plus d'être une pompière?": [
       "J'adore pouvoir faire une différence dans la vie des gens et les aider de manière significative.",
@@ -26,7 +27,7 @@
       "Je peux faire face avec les meilleurs et je ne laisse pas mon statut de femme m'entraver."
     ],
     "Comment gérez-vous les situations stressantes?": [
-      "J'essaie de rester calme, concentré et de simplement compter sur ma formation et mon expérience.",
+      "J'essaie de rester calme, concentrée et de simplement compter sur ma formation et mon expérience.",
       "J'essaie d'avoir une attitude positive et de me rappeler pourquoi je suis devenue une pompière.",
       "Avoir une excellente équipe de collègues autour de moi aide toujours lorsque les choses deviennent difficiles."
     ],
