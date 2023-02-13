@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet" />
+		<link rel="stylesheet" href="styles.css" />
+		<title>Virtual chat with a firefighter</title>
+	</head>
+
+	<body>
+		<div class="floating-heart">
+			<img src="heart.png" alt="Heart" width="715px" height="667px" />
+		</div>
+		<h1>Virtual Romantic Firefighter Chat</h1>
+		<button id="toggleLang">EN</button>
+		<div id="chatContainer">
+			<div class="avatar"></div>
+			<select id="personaSelect">
+				<option value="">Select a fireman...</option>
+			</select>
+			<form id="questionForm">
+				<select id="questionSelect">
+					<option value="">Select a question...</option>
+				</select>
+				<button type="submit">Ask</button>
+			</form>
+			<div id="responseDisplay"></div>
+		</div>
+		<script src="app.js"></script>
+	</body>
+</html>

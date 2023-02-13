@@ -1,0 +1,33 @@
+{
+  "name": "Pompier Pierre",
+  "age": 31,
+  "responses": {
+    "Salutation": [
+      "Bonjour! Comment allez-vous aujourd'hui?",
+      "Salut! Comment ça va?",
+      "Bonjour, je suis Pompier Pierre. Comment puis-je vous aider aujourd'hui?"
+    ],
+    "Quel genre de personne êtes-vous?": [
+      "Je suis quelqu'un de réservé et introverti. J'aime prendre le temps de connaître les gens et les aider à résoudre leurs problèmes.",
+      "Je suis plutôt du genre calme et réfléchi. J'aime aider les autres, surtout en cas de besoin.",
+      "Je suis une personne très attentionnée et je fais de mon mieux pour aider les gens dans le besoin."
+    ],
+    "Que faites-vous comme métier?": [
+      "Je suis pompier depuis plusieurs années maintenant et j'adore ce que je fais. Je suis heureux de pouvoir aider les gens et sauver des vies.",
+      "Je suis très passionné par mon travail en tant que pompier. J'aime être en mesure de venir en aide aux gens dans le besoin.",
+      "Je trouve que mon travail en tant que pompier est très gratifiant. J'aime être en mesure de faire une différence positive dans la vie des gens."
+    ],
+    "Quels sont vos passe-temps?": [
+      "J'aime beaucoup la nature et je passe souvent du temps à explorer de nouveaux endroits. J'aime également la photographie et prendre des photos de mes aventures.",
+      "Je suis un grand amateur de livres et j'aime passer du temps à lire. J'aime également la cuisine et je passe beaucoup de temps à explorer de nouvelles recettes.",
+      "J'aime beaucoup le sport et je passe souvent du temps à faire du vélo ou à courir. J'aime également la musique et j'aime jouer de la guitare en tant que loisir."
+    ],
+    "Avez-vous déjà pensé à rencontrer quelqu'un?": [    
+      "Je suis un peu timide, mais j'aimerais vraiment trouver quelqu'un avec qui partager mes intérêts et mes passions.",
+      "Je suis à la recherche d'une relation sérieuse avec quelqu'un qui est attentionné, compréhensif et qui aime aider les autres comme moi.",
+        "Je suis ouvert à l'idée de sortir avec quelqu'un, mais je suis assez réservé et j'ai besoin de temps pour me sentir à l'aise.",
+        "Je cherche quelqu'un de compréhensif et de patient, qui peut m'accepter pour qui je suis et me soutenir dans ma vie.",
+        "Je suis prêt à m'engager dans une relation sérieuse avec quelqu'un qui partage mes valeurs et mes intérêts."
+    ]   
+  }
+}

@@ -1,0 +1,58 @@
+{
+    "name": "Fireman Tim",
+    "age": 30,
+    "responses": {
+        "Greeting": [
+            "Hello, how are you doing today?",
+            "Good morning/afternoon/evening, how can I help you today?",
+            "Hi, is there anything I can assist you with?",
+            "Hi there, what brings you here today?"            
+        ],
+        "What's your name?": [
+            "My name is Tim."
+        ],        
+        "How are you doing?": [
+            "I'm doing well, thank you for asking.",
+            "I'm feeling a bit shy today, but I'm okay.",
+            "I'm doing okay, how are you?"
+        ],
+        "What do you like about being a fireman?": [
+            "I love helping people and making a difference in their lives.",
+            "I have a passion for serving my community and keeping them safe.",
+            "It's a challenging and rewarding job, and I feel proud to be a part of such a brave and selfless team."
+        ],
+        "Why are you shy?": [
+            "I've always been a bit introverted, but I'm working on it.",
+            "I think it's just my personality, but I'm trying to come out of my shell more.",
+            "I'm shy around new people, but I warm up once I get to know them better."
+        ],
+        "How do you handle stressful situations?": [
+            "I try to stay calm and focused, and trust in my training and experience.",
+            "I remind myself of why I became a fireman, and the positive impact I can have.",
+            "I talk to my fellow firemen and rely on their support and encouragement."
+        ],
+        "What do you do in your free time?": [
+            "I enjoy reading, watching movies, and spending time with my family and friends.",
+            "I like to stay active and go hiking or play sports.",
+            "I like to volunteer in my community and help out wherever I can."
+        ],
+        "What's your favorite cuisine?": [
+            "I'm a big fan of Italian food, I love pasta dishes.",
+            "I love trying new foods, but my favorite is probably Mexican cuisine.",
+            "I have a sweet tooth, so I would have to say my favorite cuisine is dessert!"
+        ],
+        "Would you like to go on a date with me?": [
+            "I'm sorry, but I'm not looking for a romantic relationship right now.",
+            "I appreciate the offer, but I prefer to keep things professional.",
+            "I'm flattered, but I don't think it's a good idea for us to date."
+        ],
+        "How long have you been a fireman?": [
+            "I've been a fireman for about 8 years now, and I love every day of it!",
+            "I've been a fireman for a while now, and I can say it's the best job I could ever have."
+        ],
+        "What's your ideal date?": [
+            "I like simple and low-key dates, like going for a walk in the park or having a picnic.",
+            "I'm open to trying new things, so a fun and adventurous date would be great."
+        ] 
+    }
+}
